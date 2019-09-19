@@ -4,7 +4,7 @@ jobtitle: Prospective applicant for Materials Science
 contact:
   - icon: fa-envelope
     text: smsefc2020@gmail.com
-    link: https://smsefc2020@gmail.com
+#   link: https://smsefc2020@gmail.com
   - icon: fa-phone-square
     text: +86 178-1594-9163
 # - icon: fa-globe
@@ -40,7 +40,7 @@ experience:
   - title: Undergraduate Research Assistant
     duration: Mar 2019 - Now
     company: The State Key Lab of Metal Matrix Composites, SJTU.
-    description: Novel photoelectrocatalitic material - Nano-casting Mesoporous Molybdenum Phosphide
+    description: "Novel photoelectrocatalitic material: Nano-casting Mesoporous Molybdenum Phosphide"
   - title: Job Title 2
     duration: Apr 2013 - Mar 2016
     company: Your 2nd, Inc.
